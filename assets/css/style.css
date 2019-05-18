@@ -1,0 +1,77 @@
+body{
+    background-image:url(../images/atlantis.jpg);
+    background-size:cover;
+}
+h2{
+    font-family: fantasy;
+    text-align: center;
+    color:orange;
+    font-size: 45px;
+    border:10px solid crimson;
+    background:white;
+    padding: .1%;
+    margin: 2%;
+    
+    
+}
+h3{
+    font-family: fantasy;
+    text-align-last: center;
+    color:crimson;
+    font-size:15px;
+    border:2px solid crimson;
+    width:400px;
+    float: right;
+    background:aqua;
+    padding:.9%;
+    border-radius:5%;
+    
+}
+h4{
+    font-family: fantasy;
+    text-align: center;
+    color:crimson;
+    font-size:15px;
+    width: 100px;
+    float: auto;
+    background:aqua;
+    border:2px solid crimson;
+    text-align:center;
+    padding:4%;
+    border-radius:5%;
+
+}
+h5{
+    font-family: fantasy;
+    text-align: center;
+    color:crimson;
+    font-size:15px;
+    width:200px;
+    float:auto;
+    background:white;
+    border:1px solid crimson;
+    border-radius:5%;
+
+}
+
+.crystal{
+    height:55px;
+    width:55px;
+    padding:.5%;
+    float:right;
+    background:white;
+    border: 1px solid crimson;
+    margin-inline-end: 10%;
+    opacity: 2%;
+    border-radius:90%;
+
+    
+}
+
+
+
+    
+
+
+
+    
